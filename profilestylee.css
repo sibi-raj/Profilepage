@@ -1,0 +1,265 @@
+*{
+    padding: 0px;
+    margin:0px;
+}
+.navbar{
+    display: flex;
+    background-color:rgb(208, 212, 215);
+    justify-content: space-between;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+}
+nav ul li{
+    padding-right: 25px;
+}
+nav h3{
+    margin-left: 15px;
+    color: red;
+}
+.sec1{
+    background-color: black;
+    padding: 50px;
+}
+.head h2{
+    color: white;
+    text-align: right;
+    padding-right: 35%;
+    font-size: 27px;
+}
+#str{
+    text-decoration: line-through;
+}
+.txt{
+    background-color: rgb(236,236,236);
+}
+.sec2{
+    background-color:rgb(208, 212, 215);
+    padding: 100px;
+    padding-right: 40px;
+}
+.name{
+    /* text-align:justify; */
+    padding-left: 300px;
+}
+.first h3{
+    text-align: center;
+}
+.under{
+    border-bottom: 2px solid white;
+    text-align: center;
+    padding-top: 5px;
+    width: 270px;
+}
+.first{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.sect{
+    color: white;
+}
+.ima1{
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    margin-top: 30px;
+    color: black;
+    text-align: center;
+    
+}
+.cont1{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    
+}
+.tg{
+    padding-top: 5px;
+    /* padding-left: 70px; */
+}
+.para{
+    padding-top: 40px;
+}
+.sec3{
+    background-color:rgb(208, 212, 215);
+}
+.rectbase{
+    border:1px solid black;
+    background-color: grey;
+    width: 250px;
+    height: 5px;
+}
+.rectopt1{
+    border:1px solid black;
+    padding: 0%;
+    width: 90%;
+    height: 5px; 
+    background-color: red;
+}
+.rectopt2{
+    border:1px solid black;
+    padding: 0%;
+    width: 80%;
+    height: 5px; 
+    background-color: red;
+}
+.rectopt3{
+    border:1px solid black;
+    padding: 0%;
+    width: 70%;
+    height: 5px; 
+    background-color: red;
+}
+.rectopt4{
+    border:1px solid black;
+    padding: 0%;
+    width: 95%;
+    height: 5px; 
+    background-color: red;
+}
+.rectopt5{
+    border:1px solid black;
+    padding: 0%;
+    width: 90%;
+    height: 5px; 
+    background-color: red;
+}
+.rectopti1{
+    border:1px solid black;
+    padding: 0%;
+    width: 90%;
+    height: 5px; 
+    background-color: red;
+}
+.rectopti2{
+    border:1px solid black;
+    padding: 0%;
+    width: 98%;
+    height: 5px; 
+    background-color: red;
+}
+.rectopti3{
+    border:1px solid black;
+    padding: 0%;
+    width: 70%;
+    height: 5px; 
+    background-color: red;
+}
+.rectopti4{
+    border:1px solid black;
+    padding: 0%;
+    width: 40%;
+    height: 5px; 
+    background-color: red;
+}
+.rectopti5{
+    border:1px solid black;
+    padding: 0%;
+    width: 30%;
+    height: 5px; 
+    background-color: red;
+}
+.secc{
+    display: flex;
+    background-color:rgb(208, 212, 215);
+    padding-left: 20%;
+    padding-bottom: 40px;
+}
+.sec3{
+    display: flex;
+    padding-left: 30%;
+}
+.headi{
+    background-color:rgb(208, 212, 215);
+    padding-top: 10px;
+}
+.headi h3{
+    text-align: center;
+}
+.lan{
+    padding-left: 35%;
+}
+.he{
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.arr{
+    padding-top: 15px;
+}
+.form{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+input,button{
+    margin-bottom: 20px;
+    width: 280px;
+}
+.form h3{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+button{
+    background-color:rgb(208, 212, 215);
+
+}
+footer{
+    height: 250px;
+    background-color: black;
+}
+#ang{
+    position: absolute;
+    right: 25%;
+    opacity: 0.3;
+}
+#ht{
+    position: absolute;
+    right: 30%;
+    bottom: 50px;
+    opacity: 0.3;
+}
+#cd{
+    position: absolute;
+    opacity: 0.3;
+    left: 30%;
+    top: 20%;
+}
+#ef{
+    position: absolute;
+    opacity: 0.3;
+    left: 60%;
+    top: 25%;
+}
+#ij{
+    position: absolute;
+    opacity: 0.3;
+    left: 20%;
+}
+#gh{
+    position: absolute;
+    opacity: 0.3;
+    left: 90%;
+}
+#kl{
+    position: absolute;
+    opacity: 0.3;
+    left: 5%;
+    top: 10%;
+}
+#ab{
+    position: absolute;
+    opacity: 0.3;
+    left: 30%;
+    top: 70%;
+}
